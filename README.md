@@ -5,9 +5,9 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VBbenfica)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Vinicius.Benfica.Ruy)
 
-<div style="display:flex">
+<div>
   <img width="300px" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif">
-  <div style="margin-left: 10px">
+  <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusbenfica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbenfica&layout=compact&langs_count=7&theme=radical"/>
   </div>
