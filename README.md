@@ -17,7 +17,7 @@
   <h2>Tecnologias que uso no dia a dia</h2>
   <img width="70px" height="70px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
   <img width="70px" height="70px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
-  <img width="70px" height="70px" src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png"/>
+  <img width="70px" height="70px" src="https://logospng.org/download/react/logo-react-1024.png"/>
 
   <img width="70px" height="70px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/square_480/nodejslogo.png"/>
   <img width="70px" height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/>
