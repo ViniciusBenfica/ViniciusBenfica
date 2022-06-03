@@ -18,7 +18,8 @@
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=viniciusbenfica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbenfica&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
+<br/>
+  
 <img  align="left" height="350" widht="400" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif">
 
 ## Technologies I use on a daily basis
