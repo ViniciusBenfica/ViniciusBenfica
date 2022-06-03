@@ -22,7 +22,6 @@
 <img  align="left" height="350" widht="400" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif">
 
 ## Technologies I use on a daily basis
-<img width="70px" height="70px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"/>
 <img width="70px" height="70px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
 <img width="70px" height="70px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
 <img width="70px" height="70px" src="https://logospng.org/download/react/logo-react-1024.png"/>
