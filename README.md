@@ -34,5 +34,5 @@
   
 ## Technologies I'm Studying
 <img width="70px" height="70px" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"/>
-<img width="70px" height="70px" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"/>
+<img width="70px" height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png"/>
 
