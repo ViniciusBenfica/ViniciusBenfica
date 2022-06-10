@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Vinicius.Benfica.Ruy)
 
 <p>
-  I'm currently majoring in Computer Science at UVV and working as a Full Stack JavaScript developer. I am a technology enthusiast and I always seek to be on top of news that happen in the technological world, I am always looking for challenges and I try to improve my skills to become a better professional.
+  I'm currently majoring in Computer Science at UVV and working as a Full Stack JavaScript developer 💻. I am a technology enthusiast and I always seek to be on top of news that happen in the technological world, I am always looking for challenges and I try to improve my skills to become a better professional.
 </p>
   
 <div>
