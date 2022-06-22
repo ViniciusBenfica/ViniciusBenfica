@@ -1,7 +1,5 @@
-<h1 align="center">Hey there!👋</h1>
-
 <div align="center" marginBottom="50">
-  <img width="900" height="400" src="https://c.wallhere.com/photos/ac/fa/digital_art_artwork_illustration_pixel_art_pixels_pixelated_landscape_nature-1853291.jpg!d">
+  <img width="900" height="400" src="https://media.discordapp.net/attachments/359157310469439509/988978709887332372/Vinicius_Benfica.png?width=1025&height=454">
 <div>
 <br/>
   
