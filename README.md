@@ -24,6 +24,7 @@
   
 <dl>
   
+<dd>
 ### Front
 <img width="55px" height="55px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
 <img width="55px" height="55px" src="https://logospng.org/download/react/logo-react-1024.png"/>
@@ -43,6 +44,8 @@
 ### Others
 <img width="55px" height="55px" src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png"/>
 <img width="55px" height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
+ 
+<dd>
   
 </dl>
   
