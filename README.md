@@ -20,7 +20,7 @@
   
 <img  align="left" height="350" widht="400" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif">
 
-<div align="left" style="margin: 100px">
+<div align="left" style="margin-left: 30px">
 
 ### Front
 <img width="55px" height="55px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
