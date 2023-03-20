@@ -22,7 +22,7 @@
 
 <div>
 
-  ### Front
+  ### Front-End
   <img width="55px" height="55px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
   <img width="55px" height="55px" src="https://logospng.org/download/react/logo-react-1024.png"/>
   <img width="55px" height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"/>
@@ -30,8 +30,7 @@
 
   <br/>
 
-  ### Back
-
+  ### Back-End
   <img width="55px" height="55px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/square_480/nodejslogo.png"/>
   <img width="55px" height="55px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"/>
 
