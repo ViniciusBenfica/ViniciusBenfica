@@ -23,7 +23,7 @@
 <div>
 
   ### Front-End
-  <img width="55px" height="55px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
+  <img width="55px" height="55px" src="[https://cdn.auth0.com/blog/logos/nextjs-logo.png](https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png)"/>
   <img width="55px" height="55px" src="https://logospng.org/download/react/logo-react-1024.png"/>
   <img width="55px" height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"/>
   <img width="55px" height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/>
