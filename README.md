@@ -7,10 +7,6 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vb_benfica/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VBbenfica)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Vinicius.Benfica.Ruy)
-
-<p>
-  Graduated in Computer Science at UVV and working as a Full Stack JavaScript developer 💻. I am a technology enthusiast and I always seek to be on top of the news that happens in the technological world, I am always looking for challenges and I seek to improve my skills to become a better professional👨‍💼.
-</p>
   
 <div>
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=viniciusbenfica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
