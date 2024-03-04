@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="900" height="400" src="[https://media.discordapp.net/attachments/359157310469439509/988978709887332372/Vinicius_Benfica.png?width=1025&height=454](https://cdn.discordapp.com/attachments/1021421122878701621/1214202989225578496/Vinicius_Benfica.png?ex=65f841a7&is=65e5cca7&hm=33623e4125c3dd2d3cc6cb8a5aba9e9ea19eda8d264250aa6dcbb17b0ed894d3&)">
+  <img width="900" height="400" src="https://i.imgur.com/PW97SDw.png">
 <div>
 <br/>
   
