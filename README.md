@@ -30,12 +30,18 @@
 
   ### Others
   [![My Skills](https://skillicons.dev/icons?i=docker,git,vite&theme=dark)](https://skillicons.dev)
-</div>
 
+  </div>
+
+  <div align="left">
+  
   <img height="400" widht="400" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif">
+  
+  </div>
 
 </div>
   
 <div>
+   
     
 </div>
