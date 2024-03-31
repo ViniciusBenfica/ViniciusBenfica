@@ -13,7 +13,7 @@
 </div>
 
 
-<div style="display: flex; justify-content: space-between">
+<div style="display: flex; justify-content: space-between; flex-direction: row;">
   <div>
 
   ### Language
@@ -33,11 +33,9 @@
 
   </div>
 
-  <div align="left">
   
   <img height="400" widht="400" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif">
   
-  </div>
 
 </div>
   
