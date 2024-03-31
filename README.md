@@ -13,10 +13,9 @@
 </div>
 
 
-<div style="display: flex; justify-content: space-between; flex-direction: row;">
-  <div>
+<div>
 
-  ### Language
+  ### Languages
   [![My Skills](https://skillicons.dev/icons?i=js,ts&theme=dark&&perline=5)](https://skillicons.dev)
 
   ### Front-End
@@ -25,18 +24,18 @@
   ### Back-End
   [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark)](https://skillicons.dev)
 
-  ### Test
+  ### Tests
   [![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=dark)](https://skillicons.dev)
 
   ### Others
   [![My Skills](https://skillicons.dev/icons?i=docker,git,vite&theme=dark)](https://skillicons.dev)
 
-  </div>
 
-  
+</div>
+
+<div align="left">
+
   <img height="400" widht="400" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif">
-  
-
 </div>
   
 <div>
