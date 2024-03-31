@@ -10,25 +10,28 @@
   [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Vinicius.Benfica.Ruy)
 </div>
 
-<div align="left" style="idth: 50%">
+<div style="display: flex;">
+  <div align="left">
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts&theme=dark&&perline=5)](https://skillicons.dev)
+  ### Languages
+  [![My Skills](https://skillicons.dev/icons?i=js,ts&theme=dark&&perline=5)](https://skillicons.dev)
 
-### Front-End
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,bootstrap,jquery,html,css,sass,styledcomponents&theme=dark&&perline=5)](https://skillicons.dev)
+  ### Front-End
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,bootstrap,jquery,html,css,sass,styledcomponents&theme=dark&&perline=5)](https://skillicons.dev)
 
-### Back-End
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark)](https://skillicons.dev)
+  ### Back-End
+  [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark)](https://skillicons.dev)
 
-### Tests
-[![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=dark)](https://skillicons.dev)
+  ### Tests
+  [![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=dark)](https://skillicons.dev)
 
-### Others
-[![My Skills](https://skillicons.dev/icons?i=docker,git,vite&theme=dark)](https://skillicons.dev)
+  ### Others
+  [![My Skills](https://skillicons.dev/icons?i=docker,git,vite&theme=dark)](https://skillicons.dev)
+  </div>
+
+  <div align="right">
+  <img height="400" widht="400" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif">
+  <div
+
 </div>
-
-<div align="right" style="width: 50%">
-<img height="400" widht="400" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif">
-<div
 
