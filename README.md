@@ -18,7 +18,6 @@
   ### Languages
   [![My Skills](https://skillicons.dev/icons?i=js,ts&theme=dark&&perline=5)](https://skillicons.dev)
 
-<!-- 
   ### Front-End
   [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,bootstrap,jquery,html,css,sass,styledcomponents&theme=dark&&perline=5)](https://skillicons.dev)
 
@@ -31,7 +30,7 @@
   ### Others
   
   [![My Skills](https://skillicons.dev/icons?i=docker,git,vite&theme=dark)](https://skillicons.dev)
-  -->
+ 
   </div>
 
  
