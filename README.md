@@ -13,17 +13,17 @@
 <div>
   <div align="left">
 
-  <!-- ### Languages
+  ### Languages
   [![My Skills](https://skillicons.dev/icons?i=js,ts&theme=dark&&perline=5)](https://skillicons.dev)
 
-  ### Front-End
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,bootstrap,jquery,html,css,sass,styledcomponents&theme=dark&&perline=5)](https://skillicons.dev)
+  <!-- ### Front-End
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,bootstrap,jquery,html,css,sass,styledcomponents&theme=dark&&perline=5)](https://skillicons.dev) -->
 
   ### Back-End
   [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark)](https://skillicons.dev)
 
   ### Tests
-  [![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=dark)](https://skillicons.dev) -->
+  [![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=dark)](https://skillicons.dev)
 
   ### Others
   [![My Skills](https://skillicons.dev/icons?i=docker,git,vite&theme=dark)](https://skillicons.dev)
