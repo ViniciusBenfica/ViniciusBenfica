@@ -22,8 +22,8 @@
   ### Back-End
   [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark)](https://skillicons.dev) -->
 
-  ### Tests
-  [![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=dark)](https://skillicons.dev)
+  <!-- ### Tests
+  [![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=dark)](https://skillicons.dev) -->
 
   ### Others
   [![My Skills](https://skillicons.dev/icons?i=docker,git,vite&theme=dark)](https://skillicons.dev)
