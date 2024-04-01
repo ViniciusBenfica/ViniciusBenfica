@@ -1,6 +1,5 @@
 <img width="900" height="400" src="https://i.imgur.com/PW97SDw.png">
 
-<br/>
   
 <div align="center">
 
@@ -11,7 +10,7 @@
 </div>
 
 
-  <img align="right" height="400" widht="400" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif"/>
+<img align="right" height="450" width="450" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif"/>
 
   <div align="left">
 
@@ -34,5 +33,5 @@
   </div>
 
  
-
+ 
 
