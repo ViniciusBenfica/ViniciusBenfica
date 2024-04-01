@@ -26,7 +26,9 @@
   [![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=dark)](https://skillicons.dev) -->
 
   ### Others
-  [![My Skills](https://skillicons.dev/icons?i=docker,git,vite&theme=dark)](https://skillicons.dev)
+
+  <div>assdsdsdsd</div>
+  <!-- [![My Skills](https://skillicons.dev/icons?i=docker,git,vite&theme=dark)](https://skillicons.dev) -->
   </div>
 
   <div align="right" ">
